@@ -1,0 +1,8 @@
+[Activity]
+name = Contando con JAMCito
+activity_version = 1
+licence = GPLv3
+bundle_id = org.ceibaljam.ContandoConJAMCito
+icon = icono
+exec = sugar-activity activity.CconJAMCito
+
